@@ -64,3 +64,128 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+.container {
+	width: 1100px;
+	margin: 40px auto;
+	position: relative;
+}
+
+nav {		
+	display: inline-block; 
+	position: relative;  
+	width: 100%;	
+}
+
+nav a{	
+	margin: 40px; 
+	text-decoration: none;
+	color: gray;
+}
+
+nav img{
+	display: inline-block; 
+	margin-left: 100px;
+}
+header {
+	padding-top: 56px;
+}
+header h1 {
+	font-size: 85px;
+}
+
+header:after {
+	content:"";
+	display: table;
+	clear: both;
+}
+
+.Hero__left, .Hero__right {
+	width: 49.5%;
+	text-align: center;
+	height: 400px;
+	float: left;
+}
+
+.Hero__left {
+	padding-top: 32px;
+}
+
+.button {
+	border: 1px solid black;
+	padding: 8px 16px;
+	width: 148px;
+	margin: 0 auto;
+}
+
+.Section__left, .Section__right {
+	display: inline-block;
+	width: 49%;
+}
+
+.firstSection {
+	border-top: 1px solid black;
+	padding: 40px 0; 
+}
+
+.middle-img {
+	width: 100%;
+	text-align: center;
+}
+
+.secondSection {
+	border-bottom: 1px solid black;
+	padding: 20px;
+}
+
+.thirdp, .fourthp, .fifthp {
+	display: inline-block;
+	width: 33%;
+	margin-bottom: 25px;
+	margin-top: 32px;
+	position: relative;
+}
+
+.contact {
+	margin-top: 32px;
+}
+
+footer, .push {
+	text-align: center;
+	height: 50px;
+
+	
+	
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+ 
+
+
+
+
+
+
+
+
+
+
+
+
